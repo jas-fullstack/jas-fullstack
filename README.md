@@ -6,6 +6,14 @@
 - 💬 Ask me about **Node.Js, Angular , React.JS , laravel**
 
 - 📫 How to reach me **kumarsanju54@gmail.com**
+- 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sanjeev-kumar-45578678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev-kumar-45578678" height="30" width="40" /></a>
+<a href="https://instagram.com/kumarsanju54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumarsanju54" height="30" width="40" /></a>
+<a href="https://medium.com/kumarsanju54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kumarsanju54" height="30" width="40" /></a>
+</p>
 
 I have earned the following skills and expertise during working as **Full Stack Developer** :
 - Good experience in Angular and Node js framework
