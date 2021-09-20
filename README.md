@@ -6,7 +6,6 @@
 - 💬 Ask me about **Node.Js, Angular , React.JS , laravel**
 
 - 📫 How to reach me **kumarsanju54@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
