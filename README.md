@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaswinder Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **Solution Artiture**
