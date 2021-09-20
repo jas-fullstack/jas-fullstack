@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Node.Js, Angular , React.JS , laravel**
 
-- 📫 How to reach me **sanjeevkumar8039@yahoo.com**
+- 📫 How to reach me **kumarsanju54@gmail.com**
 
 I have earned the following skills and expertise during working as **Full Stack Developer** :
 - Good experience in Angular and Node js framework
