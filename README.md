@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Solution Artiture**
+- 🌱 I’m currently learning **Solution Architecture**
 
 - 💬 Ask me about **Node.Js, Angular , React.JS , laravel**
 
