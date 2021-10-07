@@ -14,6 +14,12 @@
 <a href="https://medium.com/kumarsanju54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kumarsanju54" height="30" width="40" /></a>
 </p>
 
+<p>View my some articles.</p> 
+<span>https://medium.com/@kumarsanju54/what-is-ec2-instance-how-to-create-ec2-instance-be2aa6ce6140</span>
+https://medium.com/@kumarsanju54/how-angular-app-start-or-bootstrap-process-of-angular-a084edde0d99
+https://medium.com/@kumarsanju54/ajax-with-formdata-for-beginners-how-to-25b926b9d7a5
+https://medium.com/@kumarsanju54/how-to-create-custom-pipe-in-angular-82b65c5a5054
+https://medium.com/@kumarsanju54/lazy-loading-modules-in-angular-4-8-upgraded-77a9ccf0ed67
 
 
 I have earned the following skills and expertise during working as **Full Stack Developer** :
