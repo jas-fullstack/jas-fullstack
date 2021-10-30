@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsanju54&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsanju54" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on **MEAN Stack | Laravel**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kumarsanju54@gmail.com**
  <p style="display:flex"> <img src="https://github-profile-trophy.vercel.app/?username=kumarsanju54" alt="kumarsanju54" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsanju54&show_icons=true&locale=en" alt="kumarsanju54" /></p>
 <p>View my some articles.</p> 
 <span>https://medium.com/@kumarsanju54/what-is-ec2-instance-how-to-create-ec2-instance-be2aa6ce6140</span>
 https://medium.com/@kumarsanju54/how-angular-app-start-or-bootstrap-process-of-angular-a084edde0d99
@@ -60,7 +60,6 @@ I have earned the following skills and expertise during working as **Full Stack 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsanju54&show_icons=true&locale=en&layout=compact" alt="kumarsanju54" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsanju54&show_icons=true&locale=en" alt="kumarsanju54" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanju54&" alt="kumarsanju54" /></p>
 
