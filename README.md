@@ -17,6 +17,35 @@
 
 - 📫 How to reach me **kumarsanju54@gmail.com**
 
+<p>View my some articles.</p> 
+<span>https://medium.com/@kumarsanju54/what-is-ec2-instance-how-to-create-ec2-instance-be2aa6ce6140</span>
+https://medium.com/@kumarsanju54/how-angular-app-start-or-bootstrap-process-of-angular-a084edde0d99
+https://medium.com/@kumarsanju54/ajax-with-formdata-for-beginners-how-to-25b926b9d7a5
+https://medium.com/@kumarsanju54/how-to-create-custom-pipe-in-angular-82b65c5a5054
+https://medium.com/@kumarsanju54/lazy-loading-modules-in-angular-4-8-upgraded-77a9ccf0ed67
+
+<h6>MongoDb Certificaton prepration</h6>
+<a href="https://university.mongodb.com/course_completion/208a6585-1a7b-4b97-8699-a7db738fadee?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing">M121: The MongoDB Aggregation Framework</a>
+<hr>
+
+I have earned the following skills and expertise during working as **Full Stack Developer** :
+- Good experience in Angular and Node js framework
+- Experience with multiple JavaScript-based frontend technologies (Angular, Vue)
+- Have the experience to deploy application code on the server like AWS
+- Familiar with all common issues during working mean stack application
+- Develop and maintain applications passing through all stages
+- Deep understanding of HTML5 , CSS , core JavaScript , Typescript
+- Unit level testing & debugging (process as a part of development)
+- Familiarity with SQL/NoSQL databases and their declarative query languages
+- Strong knowledge in Laravel Cake PHP, WordPress, codeigniter framework.
+- Hands-on experience in developing / working/ enhancement on packages plugins.
+- Understanding fundamental design principles behind a scalable application
+- Integration of multiple data sources and databases into one system
+- Creating database schemas that represent and support business processes
+- Familiarity with SQL/NoSQL databases and their declarative query languages
+- Unit level testing & debugging (process as a part of development)
+- Proficient understanding of, Test-driven development, continuous integration & code versioning tools, such as Git
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
