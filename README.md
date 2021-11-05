@@ -61,7 +61,7 @@ I have earned the following skills and expertise during working as **Full Stack 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev-fullstack&show_icons=true&locale=en&layout=compact" alt="sanjeev-fullstack" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=/sanjeev-fullstack" alt="sanjeev-fullstack" /></p>
+
 
 
 
