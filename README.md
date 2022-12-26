@@ -15,8 +15,8 @@
 - 💬 Ask me about **Node.JS | Wordpress | laravel | angular**
 
 - 📫 How to reach me **kumarsanju54@gmail.com**
- <p style="display:flex"> <img src="https://github-profile-trophy.vercel.app/?username=sanjeev-fullstack" alt="kumarsanju54" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeev-fullstack&show_icons=true&locale=en" alt="kumarsanju54" /></p>
+ <p style="display:flex"> <img src="https://github-profile-trophy.vercel.app/?username=jas-fullstack" alt="kumarsanju54" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jas-fullstack&show_icons=true&locale=en" alt="kumarsanju54" /></p>
 <p>View my some articles.</p> 
 <span>https://medium.com/@kumarsanju54/what-is-ec2-instance-how-to-create-ec2-instance-be2aa6ce6140</span><br/>
 https://medium.com/@kumarsanju54/how-angular-app-start-or-bootstrap-process-of-angular-a084edde0d99 <br/>
